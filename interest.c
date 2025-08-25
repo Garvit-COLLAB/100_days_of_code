@@ -5,7 +5,7 @@
 #include<math.h>
 
 int main(){
-    float si,cp,cP,p,r,t;
+    float si,cp,p,r,t;
     printf("Enter the principal amount:");
     scanf("%f",&p);
     printf("Enter the rate of interest:");
