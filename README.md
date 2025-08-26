@@ -10,3 +10,5 @@ starting my coding journey
 8:program to find and display the sum of the first n natural numbers(summation.c)
 9:program to calculate simple and compound interest for given principal, rate, and time.(interest.c)
 10: program to input time in seconds and convert it to hours:minutes:seconds format.(time.c)
+11:program to input an integer and check whether it is even or odd using if–else.(odd_even.c)
+12:program to input an integer and check whether it is positive, negative or zero using nested if–else.(sign.c)
