@@ -6,7 +6,7 @@ int main () {
     printf("Enter any three numbers:");
     scanf("%d%d%d",&a,&b,&c);
 
-   if((a>b && a>c)||(b>a && b>c )){
+   if((a>b && a>c)||(b>a && b>c )){ 
      if(b>a && b>c ){
         printf("%d is a largest number among them.\n",b);
     } else {
@@ -18,3 +18,4 @@ int main () {
 
    return 0;
 }
+
