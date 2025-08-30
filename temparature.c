@@ -8,4 +8,4 @@ int main(){
     printf("The temperature in fahrenheit:%.4f\n",(9*C)/5+32);
 
     return 0;
-}
+} 
