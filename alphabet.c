@@ -20,7 +20,5 @@ int main() {
         printf("invalid input");
     }
 
-
-
     return 0;
 }
