@@ -13,6 +13,6 @@ int main() {
      printf("The product of a and b:%d\n",a*b);
      
     (b==0)? printf("The quotient of a and b:undefined\n"):printf("The quotient of a and b:%d\n",a/b);
-
+ 
     return 0;
 }
