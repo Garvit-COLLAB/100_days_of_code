@@ -1,5 +1,5 @@
 # 100_days_of_code
-starting my coding journey.                                                                                                       code file                           output file
+starting my coding journey.                                                                                                       code file                            output file
 1:program to input two numbers and display their sum.                                                                             (sum.c)
 2:program to input two numbers and display their sum, difference, product, and quotient.                                          (arithmetic.c)
 3:program to calculate the area and perimeter of a rectangle given its length and breadth.                                        (rectangle.c)
