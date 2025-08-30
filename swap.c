@@ -11,7 +11,7 @@ int main(){
     c = a;
     a= b;
     b= c;
-
+ 
     printf("\n The value of a:%d",a);
     printf("\n The value of b:%d",b);
      
