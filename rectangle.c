@@ -10,6 +10,6 @@ int main() {
 
     printf("The perimeter of rectangle:%d\n", 2*(l+b));
     printf("The area of rectangle:%d\n",l*b);
-
+ 
     return 0;
 }
