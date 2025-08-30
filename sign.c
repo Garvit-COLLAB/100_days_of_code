@@ -15,4 +15,5 @@ int main(){
     }else {
         printf("%d is negative integer.",a);
     }
+ return 0;
 }
