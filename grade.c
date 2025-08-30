@@ -17,6 +17,6 @@ int main() {
     }else {
         printf("Your grade is F.");
     }
+
     return 0; 
 }
-

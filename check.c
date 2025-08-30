@@ -15,7 +15,8 @@ int main(){
         printf("%C is a digit.",check);
      }else {
         printf("%C is a special character.",check);
-     }  
+     }
+      
     return 0;
-}
 
+}
