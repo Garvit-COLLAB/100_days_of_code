@@ -17,5 +17,6 @@ int main(){
         printf("%C is a special character.",check);
      }  
     return 0;
-}
+} 
+
 
