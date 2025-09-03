@@ -12,13 +12,14 @@ if (a >= 90 && a <= 100){
         printf("Your grade is B.");
     }else if (a >= 70 && a < 80){
         printf("Your grade is C.");
-    }else if (a >=50 && a < 70){
+    }else if (a >=60 && a < 70){
         printf("Your grade is D.");
-    }else if (a >= 0 && a < 50){
+    }else if (a >= 0 && a < 60){
         printf("Your grade is F.");
     }
     return 0;  
 }
+
 
 
 
