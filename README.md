@@ -20,3 +20,21 @@ starting my coding journey.                                                     
 18:program to assign grades based on a percentage input.                                                                          (grade.c)
 19: program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.                               (triangle.c)
 20:program to display the day of the week based on a number (1–7) using switch-case.                                              (week.c)
+21: program to display the month name and number of days using switch-case for a given month number.                              (month.c)
+22: program to find profit or loss percentage given cost price and selling price.                                                 (sales.c)       
+23: program to calculate library fine based on late days as follows:                                                              (library.c)                                                    
+             First 5 days late: ₹2/day
+             Next 5 days late: ₹4/day
+             Next 20 days days late: ₹6/day
+             More than 30 days: Membership Cancelled.
+24: program to calculate electricity bill based on units consumed with these rates:                                               (electricity.c)                                                            
+             First 100 units at ₹5/unit
+             Next 100 units at ₹7/unit
+             Next 100 units at ₹10/unit
+             Above at ₹12/unit
+25: program to implement a basic calculator using switch-case for +, -, *, /, %.                                                  (calculator.c)         
+26: program to print numbers from 1 to n.                                                                                         (n_number.c)    
+27: program to print the sum of the first n odd numbers.                                                                          (n_even.c)      
+28: program to print the product of even numbers from 1 to n.                                                                     (n_odd.c)        
+29: program to calculate the factorial of a number.                                                                               (factorial.c)         
+30: program to reverse a given number.                                                                                            (reverse.c)                    
