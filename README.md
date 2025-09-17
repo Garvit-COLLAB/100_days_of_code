@@ -119,8 +119,7 @@ starting my coding journey.
 <br>***
 <br>*
 <br>54:program to print the following pattern:                                                                                          (pattern9.c)
-<br>  
-<br>......*
+<br><br>......*
 <br>....***
 <br>..*****
 <br>.*******
