@@ -1,4 +1,5 @@
 /*program to print the following pattern:
+
    *
   ***
  *****
@@ -44,4 +45,5 @@ int main () {
     }
 
     return 0;
+
 }              
