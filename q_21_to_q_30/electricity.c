@@ -17,7 +17,7 @@ int main(){
      else if (units <= 300)
      {
         bill = 1200+ (units-200)*10;
-        printf("electricity bill:%dRs\n"bill);
+        printf("electricity bill:%dRs\n",bill);
     } 
     else
      {
