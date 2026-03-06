@@ -57,14 +57,14 @@ SWITCH / BASIC LOGIC (21–25)
 LOOPS & NUMBER PROGRAMS (26–40)
 =====================================================================
  26 : Print numbers from 1 to n.                                                     | n_number.c
- 27 : Sum of first n odd numbers.                                                    | n_even.c
- 28 : Product of even numbers from 1 to n.                                           | n_odd.c
+ 27 : Sum of first n odd numbers.                                                    | n_odd.c
+ 28 : Product of even numbers from 1 to n.                                           | n_even.c
  29 : Factorial of a number.                                                         | factorial.c
  30 : Reverse a number.                                                              | reverse.c
  31 : Convert number to binary representation.                                       | binary.c
  32 : Check palindrome number.                                                       | palindrome.c
  33 : Check Armstrong number.                                                        | armstrong.c
- 34 : Check prime number.                                                            | primary.c
+ 34 : Check prime number.                                                            | prime.c
  35 : Print all factors of a number.                                                 | factors.c
  36 : Find HCF (GCD) of two numbers.                                                 | hcf.c
  37 : Find LCM of two numbers.                                                       | lcm.c
@@ -192,13 +192,13 @@ MATRICES (71–80)
 STRINGS (81–100)
 =====================================================================
  81 : Count characters in string.                                                    | length_string.c
- 82 : Print each character on new line.                                              | line_string.c
+ 82 : Print each character on new line.                                              | line_String.c
  83 : Count vowels and consonants.                                                   | alphabet_string.c
  84 : Convert lowercase string to uppercase.                                         | uppercase_string.c
  85 : Reverse a string.                                                              | reverse_string.c
  86 : Check palindrome string.                                                       | palindrome_string.c
  87 : Count spaces, digits, and special characters.                                  | special_string.c
- 88 : Replace spaces with hyphens.                                                   | hypens_string.c
+ 88 : Replace spaces with hyphens.                                                   | hypens_String.c
  89 : Frequency of given character.                                                  | frequency_string.c
  90 : Toggle case of characters.                                                     | toggle_string.c
  91 : Remove vowels from string.                                                     | remove_string.c
