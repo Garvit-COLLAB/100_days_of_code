@@ -11,7 +11,7 @@ C (GCC compatible)
 ## Goal
 To build strong fundamentals in C Programming.
 
-C PROGRAMMING PRACTICE – QUESTION LIST
+## C PROGRAMMING PRACTICE – QUESTION LIST
 
 Each entry contains:
 Question Number : Problem Description  |  File Name
