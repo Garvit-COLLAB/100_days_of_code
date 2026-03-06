@@ -1,4 +1,4 @@
-//program to input an integer and check whether it is even or odd using if–else.(integer numbers onlyxy)
+//program to input an integer and check whether it is even or odd using if–else.(integer numbers only)
 
 #include<stdio.h>
 int main (){
@@ -11,6 +11,8 @@ int main (){
     } else {
         printf("%d is an odd integer.",a);
     }
-
     return 0;
 }
+ 
+
+

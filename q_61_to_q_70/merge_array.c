@@ -22,7 +22,7 @@ int main() {
        scanf("%d",&arr2[i]);
     }
 
-    int merge[n1+n2];
+    int merge[((n1+n2)-1)];
     int count=0;
    
     for(int i=0;i<n1;i++) {

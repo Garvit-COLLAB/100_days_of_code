@@ -13,6 +13,6 @@ int main(){
 
     printf("\n The value of a:%d",a);
     printf("\n The value of b:%d",b);
-    
+     
     return 0;
 }

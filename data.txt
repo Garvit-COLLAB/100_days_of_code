@@ -1,2 +1,0 @@
-Hello worldThis is appended text.
- This is appended text.

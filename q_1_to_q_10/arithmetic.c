@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 int main() {
-    int a,b,c;
+    int a,b;
     printf("Enter the value of a:");
     scanf("%d",&a);
     printf("Enter the value of b:");
@@ -12,7 +12,7 @@ int main() {
      printf("The difference of a and b:%d\n",a-b);
      printf("The product of a and b:%d\n",a*b);
      
-    (b==0)? printf("The quotient of a and b:undefined\n") : printf("The quotient of a and b:%d\n",a/b);
-
+    (b==0)? printf("The quotient of a and b:undefined\n"):printf("The quotient of a and b:%d\n",a/b);
+  
     return 0;
 }
