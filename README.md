@@ -7,28 +7,28 @@ This repository contains solutions to 150 C programming problems completed as pa
 
 ## 📋 Table of Contents
 
-* [About](#about)
-* [Structure](#structure)
-* [Topics Covered](#topics-covered)
-* [Question List](#question-list)
+* [About] (#about)
+* [Structure] (#structure)
+* [Topics Covered] (#topics-covered)
+* [Question List] (#question-list)
 
-  * [Basic Programs (Q1-10)](#basic-programs-q1-10)
-  * [Conditional Statements (Q11-20)](#conditional-statements-q11-20)
-  * [Loops \& Control Flow (Q21-30)](#loops--control-flow-q21-30)
-  * [Number Properties (Q31-40)](#number-properties-q31-40)
-  * [Patterns \& Series (Q41-50)](#patterns--series-q41-50)
-  * [Arrays - Basic (Q51-60)](#arrays---basic-q51-60)
-  * [Arrays - Advanced (Q61-70)](#arrays---advanced-q61-70)
-  * [2D Arrays/Matrices (Q71-80)](#2d-arraysmatrices-q71-80)
-  * [String Operations (Q81-100)](#string-operations-q81-100)
-  * [Advanced Algorithms (Q101-120)](#advanced-algorithms-q101-120)
-  * [File I/O (Q121-130)](#file-io-q121-130)
-  * [Enumerations (Q131-140)](#enumerations-q131-140)
-  * [Structures (Q141-150)](#structures-q141-150)
+* [Basic Programs (Q1-10)] (#basic-programs-q1-10)
+* [Conditional Statements (Q11-20)] (#conditional-statements-q11-20)
+* [Loops & Control Flow (Q21-30)] (#loops--control-flow-q21-30)
+* [Number Properties (Q31-40)] (#number-properties-q31-40)
+* [Patterns & Series (Q41-50)] (#patterns--series-q41-50)
+* [Arrays - Basic (Q51-60)] (#arrays--basic-q51-60)
+* [Arrays - Advanced (Q61-70)] (#arrays--advanced-q61-70)
+* [2D Arrays/Matrices (Q71-80)] (#2d-arraysmatrices-q71-80)
+* [String Operations (Q81-100)] (#string-operations-q81-100)
+* [Advanced Algorithms (Q101-120)] (#advanced-algorithms-q101-120)
+* [File I/O (Q121-130)] (#file-io-q121-130)
+* [Enumerations (Q131-140)] (#enumerations-q131-140)
+* [Structures (Q141-150)] (#structures-q141-150)
 
-* [How to Run](#how-to-run)
-* [Contributing](#contributing)
-* [License](#license)
+* [How to Run] (#how-to-run)
+* [Contributing] (#contributing)
+* [License] (#license)
 
 ## 🎯 About
 
@@ -45,7 +45,7 @@ This challenge focuses on building strong foundations in C programming through d
 
 Solutions are organized in folders containing 10 questions each:
 
-```
+```c
 100_days_of_code/
 ├── q_1_to_q_10/
 ├── q_11_to_q_20/
